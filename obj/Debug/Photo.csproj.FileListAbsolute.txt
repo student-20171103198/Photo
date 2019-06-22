@@ -1,0 +1,15 @@
+D:\C#\Photo\Photo\obj\Debug\Photo.csprojAssemblyReference.cache
+D:\C#\Photo\Photo\obj\Debug\MainWindow.g.cs
+D:\C#\Photo\Photo\obj\Debug\App.g.cs
+D:\C#\Photo\Photo\obj\Debug\Photo_MarkupCompile.cache
+D:\C#\Photo\Photo\obj\Debug\Photo_MarkupCompile.lref
+D:\C#\Photo\Photo\bin\Debug\Photo.exe.config
+D:\C#\Photo\Photo\bin\Debug\Photo.exe
+D:\C#\Photo\Photo\bin\Debug\Photo.pdb
+D:\C#\Photo\Photo\obj\Debug\MainWindow.baml
+D:\C#\Photo\Photo\obj\Debug\Photo.g.resources
+D:\C#\Photo\Photo\obj\Debug\Photo.Properties.Resources.resources
+D:\C#\Photo\Photo\obj\Debug\Photo.csproj.GenerateResource.cache
+D:\C#\Photo\Photo\obj\Debug\Photo.csproj.CoreCompileInputs.cache
+D:\C#\Photo\Photo\obj\Debug\Photo.exe
+D:\C#\Photo\Photo\obj\Debug\Photo.pdb
